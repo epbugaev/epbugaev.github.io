@@ -7,7 +7,7 @@ Built with plain HTML, CSS, and JavaScript. No dependencies or build step.
 ## Pages
 
 - `index.html`: introduction, recent publications, ongoing work, and news/interviews.
-- `research.html`: publications, research interests, and neural weather forecasting.
+- `research.html`: publications, preprints, research interests, and neural weather forecasting.
 - `about.html`: education, experience, teaching, projects, and CV printing.
 - `style.css`: responsive layout and light/dark themes.
 - `theme.js` and `site.js`: theme preference, print control, and legacy redirects.
